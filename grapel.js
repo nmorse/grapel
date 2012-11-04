@@ -6,7 +6,7 @@
 // grapel.lookup_edges({"node_index":0, "direction":"out"});
 //       --> [[0, 1, "e1"]]
 (function($) {
-    graphel = {
+    grapel = {
         load:function(cg) {this.g = cg;},
         lookup_node:function(args) {
             var edge_attr_index = args.direction === 'from'? 0: args.direction === 'to'? 1: false;
