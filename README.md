@@ -1,4 +1,4 @@
-grapel
+grapəl
 ======
 
 A really simple "graph" data structure API and Javascript lib, represented in JSON.
@@ -13,3 +13,4 @@ The API for access to the graph
     grapel.edges // an array of all edges in the graph
     grapel.nodes // an array of all nodes in the graph
     
+grapel -- the pronouciation of grapple (`grapəl), spelled as pronouced 'grapel'
